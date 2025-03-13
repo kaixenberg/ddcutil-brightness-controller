@@ -62,7 +62,7 @@ chmod +x brightness_control.py
 3. Run the application:
 ```bash
 ./brightness_control.py
-
+```
 
 ## Future Plans
 
@@ -73,7 +73,7 @@ chmod +x brightness_control.py
 3. Add time-based brightness control
 
 4. Improve the ui
-```
+
 
 ## Usage
 
