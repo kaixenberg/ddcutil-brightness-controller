@@ -1,6 +1,6 @@
 # DDCutil Brightness Controller
 
-A sleek, GTK3-based system tray application and GUI controller for managing external monitor brightness using `ddcutil`.
+A sleek, GTK3-based system tray application and GUI controller for managing external monitor brightness using `ddcutil` on **Linux**.
 
 ![Main UI](.github/assets/screenshot_main.png)
 ![Tray Icon](.github/assets/screenshot_tray.png)
